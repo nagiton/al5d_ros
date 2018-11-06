@@ -1,0 +1,10 @@
+controller_list:
+  - name: fake_al5d_arm_controller
+    joints:
+      - base_pan
+      - shoulder_tilt
+      - elbow_tilt
+  - name: fake_al5d_hand_controller
+    joints:
+      - wrist_tilt
+      - wrist_rotate

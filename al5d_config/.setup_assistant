@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: al5d_description
+    relative_path: urdf/AL5D_urdf.xml
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/AL5D.srdf
+  CONFIG:
+    author_name: daiki
+    author_email: daiki@todo.todo
+    generated_timestamp: 1541509405
