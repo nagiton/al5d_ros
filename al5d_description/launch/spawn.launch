@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <param name="robot_description"
+		command="$(find al5d_description)/urdf/AL5D_urdf.xml" />
+<launch>
+   
